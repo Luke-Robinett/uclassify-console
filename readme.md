@@ -3,6 +3,8 @@
 
 ***
 
+![Screenshot of the console app](screenshot.png)
+
 ### Description
 
 This is a C# .NET 5 console app providing basic access to a subset of functionality of the [UClassify text classification API](https://www.uclassify.com/docs).
